@@ -24,9 +24,7 @@
 <br><br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alexandre-clenet">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=282828" target="_blank"/>
-  </a>
+  <a href="https://www.linkedin.com/in/alexandre-clenet"><img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=282828" target="_blank"/></a>
   &nbsp;
   <a href="https://alexandreclenet.fr/">
     <img src="https://img.shields.io/badge/Portfolio%20-%F0A400.svg?&style=for-the-badge&logo=Vercel&logoColor=FFF&color=282828" target="_blank"/>
@@ -41,11 +39,10 @@
 
 <div width="100%" align="center">
   <a align="center" href="https://github.com/helldeal/SAE-5-GAIA" title="GAIA App">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=helldeal&repo=SAE-5-GAIA&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
-  </a>
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=helldeal&repo=SAE-5-GAIA&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"/></a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/helldeal/Navidle" title="Navidle Web">
-    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=helldeal&repo=Navidle&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=helldeal&repo=Navidle&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"/>
   </a>
 </div>
 
