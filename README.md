@@ -35,7 +35,7 @@
 
 <hr>
 
-<h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
+<h3 align="center"><img src="https://slackmojis.com/emojis/2288-christmas_parrot/download" width="30"/>&nbsp;&nbsp;B E S T &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/2288-christmas_parrot/download" width="30"/></h3>
 
 <br> 
 
