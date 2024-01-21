@@ -32,7 +32,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/oracle%20-%3178C6.svg?&style=for-the-badge&logo=oracle&logoColor=c74364&color=282828"/>
   <br>
   <img alt="React" src="https://img.shields.io/badge/kotlin%20-%61DAFB.svg?&style=for-the-badge&logo=kotlin&logoColor=7f52ff&color=282828"/>
-  <img alt="Git" src="https://img.shields.io/badge/java%20-%F05032.svg?&style=for-the-badge&logo=java&logoColor=F05032&color=282828"/>
+  <img alt="Git" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=ffffff&color=282828"/>
   <img alt="React" src="https://img.shields.io/badge/android%20-%61DAFB.svg?&style=for-the-badge&logo=android&logoColor=a4c639&color=282828"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/python%20-%3178C6.svg?&style=for-the-badge&logo=python&logoColor=ffde57&color=282828"/>
 </div>
