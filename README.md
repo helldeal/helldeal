@@ -54,11 +54,18 @@
 <br> 
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/helldeal/SAE-5-GAIA" title="GAIA App">
+  <a align="center" href="https://github.com/helldeal/SAE-5-GAIA" title="Gaïa Medication App">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=helldeal&repo=SAE-5-GAIA&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"/></a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/helldeal/Navidle" title="Navidle Web">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=helldeal&repo=Navidle&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"/>
+  </a>
+  <br><br>
+  <a align="center" href="https://github.com/helldeal/Projet-Site-marchand-SK4TE" title="Projet-Eshop-SK4TE">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=helldeal&repo=Projet-Site-marchand-SK4TE&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://github.com/helldeal/MeteoTurbo" title="MeteoTurbo">
+    <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=helldeal&repo=MeteoTurbo&theme=vision-friendly-dark&icon_color=F0A400&&border_color=F0A400&bg_color=00000000&border_radius=10"/>
   </a>
 </div>
 
